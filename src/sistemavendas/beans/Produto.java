@@ -8,7 +8,11 @@ public class Produto {
     private double preco;
     private int estoque;
 
+
     // GETTERS E SETTERS 
+
+    // ========================= GETTERS E SETTERS =========================
+
     public int getCodproduto() {
         return codproduto;
     }
